@@ -16,3 +16,19 @@ A beginner-friendly C++ console program.
 
 ## Language
 C++
+
+
+## Task 02 - Marks Manager
+
+A C++ program to manage marks of five subjects.
+
+### Features
+- Stores marks using arrays.
+- Calculates total and average.
+- Finds highest and lowest marks.
+- Assigns letter grades.
+- Validates marks between 0 and 100.
+- Uses separate functions for calculations.
+
+### File
+marks_manager.cpp
