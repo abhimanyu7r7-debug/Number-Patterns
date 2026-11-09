@@ -32,3 +32,46 @@ A C++ program to manage marks of five subjects.
 
 ### File
 marks_manager.cpp
+
+## Task 03 - Calculator with History
+
+A C++ program that performs arithmetic calculations and stores the last ten calculations.
+
+### Features
+
+Supports addition (+), subtraction (-), multiplication (*), division (/), modulus (%) and power (^).
+
+Stores the last ten calculations in history.
+
+Displays calculation history on demand.
+
+Handles division by zero.
+
+Handles invalid input without crashing.
+
+Uses a loop to keep the calculator running until the user quits.
+
+
+### File
+
+calculator_history.cpp
+
+## Language
+C++
+
+## How to Run
+Compile calculator_history.cpp using a C++ compiler.
+
+Run the compiled program.
+
+Choose an operation.
+
+Enter the required numbers.
+
+View the last ten calculations using the history option.
+
+Exit using the quit option.
+
+
+
+
