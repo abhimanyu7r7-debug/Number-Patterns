@@ -73,5 +73,85 @@ View the last ten calculations using the history option.
 Exit using the quit option.
 
 
+## Task 04: Library Management System
+
+
+## Overview
+
+
+A console-based Library Management System developed using C++. It helps manage books in a library.
+
+
+## Features
+
+
+
+
+Add new books
+
+
+Display all books
+
+
+Search books by ID
+
+
+Issue books
+
+
+Return books
+
+
+Store books using STL Vector
+
+
+Save and load book records using file handling
+
+
+Menu-driven interface
+
+
+
+
+## Technologies Used
+
+
+
+
+C++
+
+
+Object-Oriented Programming (OOP)
+
+
+STL Vector
+
+
+File Handling
+
+
+
+
+## How to Run
+
+
+
+
+Open library_system.cpp in a C++ compiler.
+
+
+Compile and execute the program.
+
+
+Select the required option from the menu.
+
+
+
+
+Internship Project
+
+
+UpStartInterns — C++ Internship
+
 
 
